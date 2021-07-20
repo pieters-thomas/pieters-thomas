@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![pieters-thomas GitHub Stats](https://github-readme-stats.vercel.app/api?username=pieters-thomas&theme=algolia&show_icons=true)
+## My Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieters-thomas&layout=compact&theme=algolia)
